@@ -24,7 +24,7 @@ adapt to varying market conditions.
 ## Methodology
 - **Target Population:** 5,000 Marriott customers (via client database) and 2,500 competitor customers (via web scraping and access panels).
 - **Sampling Technique:** Stratified sampling based on geographic region, customer type (business/leisure), age group, membership status, and income level.
-- 
+  
 - **Data Collection:** 
   - Web-based surveys for scalability and cost-efficiency.
   - Online focus groups to explore opinions on sustainability and technology.
